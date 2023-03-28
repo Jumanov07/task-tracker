@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Ms+Madi&display=swap');
+.App {
+   font-family: 'Raleway', sans-serif;
+}
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Manrope';
+}
+
+.MuiDateRangeCalendar-root > div:first-of-type {
+   display: none !important;
+}
